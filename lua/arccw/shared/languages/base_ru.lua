@@ -249,12 +249,12 @@ L["trivia.description"] = "Описание"
 L["trivia.meleedamagetype"] = "Тип Урона"
 
 -- Units
-L["unit.rpm"] = "ОБ/М"
-L["unit.moa"] = "МД"
+L["unit.rpm"] = "RPM"
+L["unit.moa"] = "MOA"
 L["unit.mm"] = "мм"
 L["unit.db"] = "дБ"
-L["unit.bce"] = "БК"
-L["unit.aps"] = "П/С"
+L["unit.bce"] = "BC"
+L["unit.aps"] = "APS"
 
 -- melee damage types
 L["dmg.generic"] = "Безоружный"
